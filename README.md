@@ -2,4 +2,4 @@ The expression matrix needs to be processed by three Python programs in sequence
 
 This file and the clinical information file in txt format are used as inputs for 4_predict.
 
-ICI_predict_model.pt is the trained model for predicting immune therapy response.
+melamon_predict_model.pt is the trained model for predicting immune therapy response.
